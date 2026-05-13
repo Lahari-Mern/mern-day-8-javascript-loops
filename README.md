@@ -26,7 +26,7 @@ This repository contains my Day 8 JavaScript practice focused on loops and contr
 
 ##  Tech Stack
 - HTML
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
